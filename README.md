@@ -9,5 +9,5 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love to explore new technologies and I'm an enthusiast for music
 
-Thanks for Visiting
--->
+Thanks for Visiting!
+
