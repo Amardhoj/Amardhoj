@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Python
-- 🌱 I’m currently learning ... Django
-- 👯 I’m looking to collaborate on ... Django
+- 🔭 I’m currently working on ... Python, Django
+- 🌱 I’m currently learning ... Javascript
+- 👯 I’m looking to collaborate on ... Javascript
 - 🤔 I’m looking for help with ... AWS, Azure
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... amarrai10@hotmail.com
